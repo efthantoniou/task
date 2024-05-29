@@ -3,7 +3,7 @@
 # Instructions
 
 # Requirements
-  Docker intalled in you environment
+  Docker installed in your environment
 
 # SetUp
   1. In the root directory run 'docker compose build'. If its needed run 'docker compose build --no-cache'
